@@ -21,15 +21,11 @@
 
 ![](https://github.com/ppc-ntu-khpi/34-gui-DESTROYchambo/blob/0835f3013e9f4b6766dd613394fe2c7fd3f7188a/images/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-06-12%20144400.png)
 
-## На "чотири"
-1. Перепишіть код  так, щоб інформація про клієнтів банку та їх рахунки читалась з файлу **test.dat** (робота номер 8, [файл даних](https://github.com/ppc-ntu-khpi/GUI-Lab1-Starter/blob/master/data/test.dat) також є в цьому ж репозиторію)
-2. При виборі клієнта має виводитись інформація про всі його рахунки!
-3. Запустіть проект, впевніться, що все працює як очікувалось. Продемонстрируйте результат викладачеві.
-
 ## На "п'ять"
 1. Додайте ще одну кнопку - *Report*, яка має виводити у нижній частині вікна звіт за клієнтами такого ж виду, як у роботі номер 8 (див. CustomerReport). 
 2. Запустіть проект, впевніться, що все працює як очікувалось. Продемонстрируйте результат викладачеві.
 
+![](https://github.com/ppc-ntu-khpi/34-gui-DESTROYchambo/blob/d55b83d215dee1b68f3a792ebf728ae77cd2e58b/images/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-06-12%20182705.png)
 
 
 [![Gitter](https://badges.gitter.im/PPC-SE-2020/OOP.svg)](https://gitter.im/PPC-SE-2020/OOP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
